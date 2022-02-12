@@ -1,3 +1,7 @@
+// Falta implmentar:
+// "bcrypt" para
+//   * Encriptar la contraseña
+//   * Comparar la contraseña encriptada
 import { Injectable } from '@nestjs/common';
 import { UsersService } from 'src/modules/users/users.service';
 
